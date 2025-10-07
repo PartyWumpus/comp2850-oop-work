@@ -10,3 +10,4 @@ out/
 *.class
 *.iml
 *.jar
+.direnv
